@@ -1,0 +1,33 @@
+Ostatnia aktualizacja: 2 września 2025 r.
+
+Dziękujemy za korzystanie z naszej aplikacji o żeglarstwie i motorowodniactwie Majtek! Twoja prywatność jest dla nas bardzo ważna. W tej polityce prywatności wyjaśniamy, jakie dane mogą być zbierane i jak są one wykorzystywane.
+
+1. Dane, które zbieramy
+
+Aplikacja nie zbiera żadnych danych osobowych. Nie przechowuje informacji o użytkownikach, takich jak imiona, adresy e-mail, numery telefonów ani dane lokalizacyjne. Wszystkie działania w aplikacji odbywają się lokalnie na urządzeniu użytkownika.
+
+2. Dostęp do zasobów urządzenia
+
+Aplikacja może wymagać dostępu do niektórych funkcji urządzenia, takich jak:
+
+Pamięć urządzenia: Umożliwia to przechowywanie plików lokalnych (np. obrazów), które są używane przez aplikację.
+
+Internet: Używany jest jedynie w celu pobierania zasobów z internetu, np. obrazów z zasobów zewnętrznych lub do przekierowania na inne strony.
+
+Jednak żadne dane osobowe ani logi użytkowników nie są przesyłane ani zapisywane w chmurze przez samą aplikację.
+
+3. Pliki cookie i śledzenie
+
+Nasza aplikacja nie używa plików cookie ani technologii śledzenia.
+
+4. Zgoda użytkownika
+
+Korzystając z aplikacji, użytkownik wyraża zgodę na warunki zawarte w tej polityce prywatności. W przypadku jakichkolwiek zmian, zaktualizujemy tę politykę, a użytkownicy zostaną o tym poinformowani.
+
+5. Bezpieczeństwo danych
+
+Ponieważ aplikacja nie przechowuje danych użytkowników, nie są one narażone na ryzyko wycieku.
+
+6. Zmiany w polityce prywatności
+
+Zastrzegamy sobie prawo do wprowadzania zmian w tej polityce prywatności. Wszelkie zmiany będą publikowane w tej sekcji.
