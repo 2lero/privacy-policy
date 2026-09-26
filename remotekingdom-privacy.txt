@@ -1,0 +1,40 @@
+Polityka prywatności aplikacji RemoteKingdom
+
+Ostatnia aktualizacja: 26 września 2026 r.
+
+RemoteKingdom to aplikacja zdalnego pulpitu dla Android TV i Google TV, która łączy się z serwerem RemoteKingdom uruchomionym na Twoim komputerze. W tej polityce prywatności wyjaśniamy, jakie dane aplikacja przetwarza i w jakim celu.
+
+1. Dane, które zbieramy
+
+Aplikacja nie zbiera żadnych danych osobowych i nie przesyła żadnych danych do twórcy aplikacji ani do podmiotów trzecich. Nie korzysta z analityki, reklam ani usług śledzących.
+
+2. Dane przechowywane na urządzeniu
+
+Na telewizorze, lokalnie w pamięci aplikacji, przechowywane są wyłącznie:
+- adres i port serwera oraz nazwa użytkownika wpisane na ekranie łączenia,
+- ustawienia aplikacji (np. uruchamianie Steam, wyświetlanie statystyk),
+- odcisk certyfikatu serwera, służący do rozpoznania go przy kolejnych połączeniach,
+- zrzuty ekranu zrobione skrótem SELECT + START, do czasu wysłania ich na Twój serwer.
+Dane te można usunąć, czyszcząc dane aplikacji lub odinstalowując ją.
+
+3. Połączenie z serwerem
+
+Aplikacja łączy się wyłącznie z serwerem, którego adres podasz. Podczas sesji przesyłane są między telewizorem a tym serwerem: obraz pulpitu, dźwięk, sterowanie (pilot, klawiatura, mysz, pad) oraz zrzuty ekranu, jeśli je zrobisz. Połączenie jest szyfrowane (TLS). Serwer działa na Twoim komputerze i nie jest usługą twórcy aplikacji.
+
+4. Dostęp do zasobów urządzenia
+
+Aplikacja korzysta z:
+- Internetu / sieci lokalnej: do połączenia z Twoim serwerem,
+- wibracji: do wibracji pada podłączonego do telewizora, jeśli gra jej używa.
+
+5. Pliki cookie i śledzenie
+
+Aplikacja nie używa plików cookie ani technologii śledzenia.
+
+6. Bezpieczeństwo danych
+
+Ponieważ aplikacja nie wysyła danych do twórcy ani podmiotów trzecich, nie są one przechowywane poza Twoim telewizorem i Twoim komputerem. Transmisja do serwera jest szyfrowana.
+
+7. Zmiany w polityce prywatności
+
+Zastrzegamy sobie prawo do wprowadzania zmian w tej polityce prywatności. Wszelkie zmiany będą publikowane w tym pliku.
