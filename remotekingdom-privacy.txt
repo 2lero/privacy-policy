@@ -1,8 +1,8 @@
 Polityka prywatności aplikacji RemoteKingdom
 
-Ostatnia aktualizacja: 26 września 2026 r.
+Ostatnia aktualizacja: 22 października 2026 r.
 
-RemoteKingdom to aplikacja zdalnego pulpitu dla Android TV i Google TV, która łączy się z serwerem RemoteKingdom uruchomionym na Twoim komputerze. W tej polityce prywatności wyjaśniamy, jakie dane aplikacja przetwarza i w jakim celu.
+RemoteKingdom to aplikacja zdalnego pulpitu dla Android TV, Google TV i telefonów z Androidem, która łączy się z serwerem RemoteKingdom uruchomionym na Twoim komputerze. W tej polityce prywatności wyjaśniamy, jakie dane aplikacja przetwarza i w jakim celu.
 
 1. Dane, które zbieramy
 
@@ -10,23 +10,27 @@ Aplikacja nie zbiera żadnych danych osobowych i nie przesyła żadnych danych d
 
 2. Dane przechowywane na urządzeniu
 
-Na telewizorze, lokalnie w pamięci aplikacji, przechowywane są wyłącznie:
+Na urządzeniu, lokalnie w pamięci aplikacji, przechowywane są wyłącznie:
 - adres i port serwera oraz nazwa użytkownika wpisane na ekranie łączenia,
-- ustawienia aplikacji (np. uruchamianie Steam, wyświetlanie statystyk),
+- hasło do Windows, jeśli wybierzesz jego zapamiętanie – zaszyfrowane kluczem z magazynu kluczy Androida (Android Keystore), który nie opuszcza urządzenia,
+- ustawienia aplikacji (np. uruchamianie Steam, wyświetlanie statystyk, rodzaj obrazu),
 - odcisk certyfikatu serwera, służący do rozpoznania go przy kolejnych połączeniach,
 - klucz parowania otrzymany od Twojego serwera po wpisaniu kodu PIN,
+- adresy kart sieciowych (MAC) Twojego komputera, przekazane przez Twój serwer, żeby aplikacja mogła go obudzić z uśpienia (Wake-on-LAN),
 - zrzuty ekranu zrobione skrótem SELECT + START, do czasu wysłania ich na Twój serwer.
 Dane te można usunąć, czyszcząc dane aplikacji lub odinstalowując ją.
 
 3. Połączenie z serwerem
 
-Aplikacja łączy się wyłącznie z serwerem, którego adres podasz. Podczas sesji przesyłane są między telewizorem a tym serwerem: obraz pulpitu, dźwięk, sterowanie (pilot, klawiatura, mysz, pad) oraz zrzuty ekranu, jeśli je zrobisz. Połączenie jest szyfrowane (TLS). Serwer działa na Twoim komputerze i nie jest usługą twórcy aplikacji.
+Aplikacja łączy się wyłącznie z serwerem, którego adres podasz (po TCP, a gdy to możliwe także po UDP). Podczas sesji przesyłane są między urządzeniem a tym serwerem: obraz pulpitu, dźwięk, sterowanie (pilot, ekran dotykowy, klawiatura, mysz, pad), nazwa i model urządzenia oraz wersja Androida (do dziennika serwera i dopasowania obrazu) oraz zrzuty ekranu, jeśli je zrobisz. Połączenie jest szyfrowane (TLS, także po UDP). Serwer działa na Twoim komputerze i nie jest usługą twórcy aplikacji; jego dziennik zostaje na Twoim komputerze.
 
 4. Dostęp do zasobów urządzenia
 
 Aplikacja korzysta z:
-- Internetu / sieci lokalnej: do połączenia z Twoim serwerem,
-- wibracji: do wibracji pada podłączonego do telewizora, jeśli gra jej używa.
+- Internetu / sieci lokalnej: do połączenia z Twoim serwerem i do budzenia komputera,
+- powiadomień: do powiadomienia o trwającej sesji (dźwięk gra w tle),
+- wibracji: do wibracji pada podłączonego do urządzenia, jeśli gra jej używa,
+- Bluetooth (starsze wersje Androida): do obsługi pada.
 
 5. Pliki cookie i śledzenie
 
@@ -34,7 +38,7 @@ Aplikacja nie używa plików cookie ani technologii śledzenia.
 
 6. Bezpieczeństwo danych
 
-Ponieważ aplikacja nie wysyła danych do twórcy ani podmiotów trzecich, nie są one przechowywane poza Twoim telewizorem i Twoim komputerem. Transmisja do serwera jest szyfrowana.
+Ponieważ aplikacja nie wysyła danych do twórcy ani podmiotów trzecich, nie są one przechowywane poza Twoim urządzeniem i Twoim komputerem. Transmisja do serwera jest szyfrowana.
 
 7. Zmiany w polityce prywatności
 

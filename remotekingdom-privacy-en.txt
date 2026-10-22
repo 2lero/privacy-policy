@@ -1,8 +1,8 @@
 RemoteKingdom Privacy Policy
 
-Last updated: September 26, 2026
+Last updated: October 22, 2026
 
-RemoteKingdom is a remote desktop app for Android TV and Google TV that connects to the RemoteKingdom server running on your own computer. This privacy policy explains what data the app handles and why.
+RemoteKingdom is a remote desktop app for Android TV, Google TV and Android phones that connects to the RemoteKingdom server running on your own computer. This privacy policy explains what data the app handles and why.
 
 1. Data we collect
 
@@ -10,23 +10,27 @@ The app does not collect any personal data and does not send any data to the app
 
 2. Data stored on the device
 
-Only the following is stored locally on the TV, in the app's own storage:
+Only the following is stored locally on the device, in the app's own storage:
 - the server address and port, and the user name entered on the connection screen,
-- app settings (e.g. starting Steam, showing statistics),
+- the Windows password, if you choose to remember it - encrypted with a key from the Android Keystore, which never leaves the device,
+- app settings (e.g. starting Steam, showing statistics, picture type),
 - the server certificate fingerprint, used to recognise the server on later connections,
 - the pairing token received from your server after entering the PIN,
+- the network card (MAC) addresses of your computer, passed on by your server so the app can wake it from sleep (Wake-on-LAN),
 - screenshots taken with SELECT + START, until they are sent to your server.
 You can delete this data by clearing the app's data or uninstalling it.
 
 3. Connection to the server
 
-The app connects only to the server whose address you enter. During a session the following is exchanged between the TV and that server: the desktop picture, sound, input (remote, keyboard, mouse, gamepad) and, if you take them, screenshots. The connection is encrypted (TLS). The server runs on your computer and is not a service operated by the app's developer.
+The app connects only to the server whose address you enter (over TCP and, when possible, also over UDP). During a session the following is exchanged between the device and that server: the desktop picture, sound, input (remote, touch screen, keyboard, mouse, gamepad), the device name and model and the Android version (for the server's log and to fit the picture) and, if you take them, screenshots. The connection is encrypted (TLS, over UDP too). The server runs on your computer and is not a service operated by the app's developer; its log stays on your computer.
 
 4. Device permissions
 
 The app uses:
-- Internet / local network: to connect to your server,
-- vibration: to rumble a gamepad connected to the TV when a game uses it.
+- Internet / local network: to connect to your server and to wake your computer,
+- notifications: to show that a session is running (sound playing in the background),
+- vibration: to rumble a gamepad connected to the device when a game uses it,
+- Bluetooth (older Android versions): for gamepad support.
 
 5. Cookies and tracking
 
@@ -34,7 +38,7 @@ The app does not use cookies or tracking technologies.
 
 6. Data security
 
-Because the app sends no data to the developer or third parties, your data stays on your TV and your computer. The connection to the server is encrypted.
+Because the app sends no data to the developer or third parties, your data stays on your device and your computer. The connection to the server is encrypted.
 
 7. Changes to this policy
 
