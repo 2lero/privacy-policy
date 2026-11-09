@@ -1,0 +1,41 @@
+Privacy Policy for Crossword Battle
+
+Last updated: November 9, 2026
+
+Crossword Battle is a word game in which the player solves crosswords in a duel against a computer rival. This privacy policy explains what data the game handles and why.
+
+1. Data we collect
+
+The game does not collect any personal data and does not send any data to its developer or to third parties. It does not use analytics, advertising or tracking services and does not require an account.
+
+2. Data stored on the device
+
+Only game progress is saved on the device, in the game's own storage: unlocked levels, stars, best scores, unfinished games, whether the tutorial was shown, and the chosen language. You can delete this data by clearing the game's data or uninstalling it.
+
+3. Device permissions
+
+The game does not request any permissions and does not use the internet.
+
+4. Advertising
+
+The current version does not show ads. If ads are added in a future version, this policy will be updated before that version is released and will describe what data the ad networks process.
+
+5. Children
+
+The game is intended for people aged 13 and over. We do not knowingly collect personal data from anyone, including children under 13.
+
+6. Cookies and tracking
+
+The game does not use cookies or tracking technologies.
+
+7. Data security
+
+Because the game does not send any data to the developer or to third parties, the data stays on the device.
+
+8. Changes to this privacy policy
+
+We may change this privacy policy. Any changes will be published in this file.
+
+9. Contact
+
+lorekg12@gmail.com
