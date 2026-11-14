@@ -1,8 +1,8 @@
-Polityka prywatności gry Crossword Battle (Bitwa na krzyżówki)
+Polityka prywatności gry Crossword Showdown (dawniej Crossword Battle / Bitwa na krzyżówki)
 
-Ostatnia aktualizacja: 9 listopada 2026 r.
+Ostatnia aktualizacja: 14 listopada 2026 r.
 
-Crossword Battle (Bitwa na krzyżówki) to gra słowna, w której gracz rozwiązuje krzyżówki w pojedynku z komputerowym rywalem. Ta polityka prywatności wyjaśnia, jakie dane obsługuje gra i dlaczego.
+Crossword Showdown to gra słowna, w której gracz rozwiązuje krzyżówki w pojedynku z komputerowym rywalem. Ta polityka prywatności wyjaśnia, jakie dane obsługuje gra i dlaczego.
 
 1. Dane, które zbieramy
 
@@ -10,7 +10,7 @@ Gra nie zbiera żadnych danych osobowych i nie wysyła żadnych danych do jej tw
 
 2. Dane przechowywane na urządzeniu
 
-Na urządzeniu, we własnej pamięci gry, zapisywany jest wyłącznie postęp w grze: odblokowane etapy, gwiazdki, najlepsze wyniki, niedokończone partie, informacja o obejrzeniu samouczka oraz wybrany język. Dane te można usunąć, czyszcząc dane gry lub odinstalowując ją.
+Na urządzeniu, we własnej pamięci gry, zapisywany jest wyłącznie postęp w grze: odblokowane etapy, gwiazdki, najlepsze wyniki, niedokończone partie, informacja o obejrzeniu samouczka – osobno dla każdego języka gry – oraz wybrany język. Dane te można usunąć, czyszcząc dane gry lub odinstalowując ją.
 
 3. Uprawnienia urządzenia
 
